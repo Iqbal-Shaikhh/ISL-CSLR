@@ -1,0 +1,2 @@
+# ISL-CSLR
+An_Efficient_Conformer_Based_Tri_Modal_Architecture_for_Continuous_Indian_Sign_Language_Recognition
