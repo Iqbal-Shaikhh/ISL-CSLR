@@ -1,9 +1,9 @@
-streamlit>=1.30.0
-torch>=2.9.0
-opencv-python-headless>=4.8.0
-mediapipe>=0.10.30
-pandas
+streamlit
+torch
 numpy
+pandas
+mediapipe==0.10.9 
+opencv-python-headless
 h5py
 gTTS
 pyctcdecode
