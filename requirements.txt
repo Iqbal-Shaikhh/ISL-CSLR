@@ -7,3 +7,4 @@ opencv-python-headless
 h5py
 gTTS
 pyctcdecode
+https://github.com/kpu/kenlm/archive/master.zip
